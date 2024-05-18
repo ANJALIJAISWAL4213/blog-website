@@ -1,3 +1,7 @@
 <p><%= name %></p>
 
 in nav in index
+
+
+1jp2LyC4b9CILdLZ
+mongodb+srv://iit2023260:1jp2LyC4b9CILdLZ@cluster0.w6kdewx.mongodb.net/
